@@ -6,6 +6,7 @@
 # A simple bash script to print the battery levels of attached and supported controllers
 
 # A standard user should be able to run this as normal, root is not required
+# Make it executable using chmod +x, and then run with ./ps3_battery.sh
 
 # This utilises the default Linux behaviour of allowing access to controller information
 # in /sys/class/power_supply
